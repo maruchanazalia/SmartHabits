@@ -1,0 +1,54 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties# Gradle
+.gradle/
+build/
+*/build/
+
+# IDEs
+.idea/
+*.iml
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Archivos específicos de Android
+/local.properties
+
+# Archivos de Logs
+*.log
+
+# Archivos generados por Gradle
+*.apk
+*.aar
+*.class
+
